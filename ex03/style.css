@@ -1,0 +1,39 @@
+body {
+    font-family: Arial, sans-serif;
+    text-align: center;
+    background-color: #f4f6f9;
+    padding: 40px;
+}
+
+h1 {
+    color: #263b5e;
+}
+
+#count {
+    font-size: 48px;
+    font-weight: bold;
+    color: black;
+    margin: 30px 0;
+}
+
+button {
+    padding: 12px 20px;
+    margin: 5px;
+    border: none;
+    border-radius: 6px;
+    color: white;
+    font-size: 16px;
+    cursor: pointer;
+}
+
+#increment {
+    background-color: green;
+}
+
+#decrement {
+    background-color: red;
+}
+
+#reset {
+    background-color: #64748b;
+}
